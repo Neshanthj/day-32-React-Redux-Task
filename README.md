@@ -16,7 +16,7 @@ HTML,CSS and JavaScript(React.js)
 - Redux
     - contains
     - store.jsx
-    - Reducers component
+    - Reducers 
       - ProductSlice.jsx
     - store.jsx
       - contains
