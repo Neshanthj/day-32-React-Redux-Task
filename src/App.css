@@ -1,0 +1,18 @@
+.emptyCart {
+  margin: 12% auto; 
+  max-width: 80%; 
+  display: block; 
+}
+
+@media (max-width: 768px) {
+  .emptyCart {
+    margin: 20% auto; 
+  }
+
+}
+
+@media (max-width: 768px) {
+  .carousel .carousel-item img {
+    height: 200px; 
+  }
+}
